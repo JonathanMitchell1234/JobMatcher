@@ -1,6 +1,8 @@
 # JobMatcher
 
-JobMatcher is a web application that helps users find job postings that best match their resume. The application scrapes job listings from various job sites and uses a generative AI model to analyze and match the jobs to the user's resume.
+JobMatcher is a web application that helps users find job postings that best match their resume. The application scrapes job listings from various job sites and uses a generative AI model to analyze and match the jobs to the user's resume. This project is currently under early active development but is fully functional.
+
+Job Scraping is enabled by [Bunsly/JobSpy](https://github.com/Bunsly/JobSpy/tree/main). Shoutout to their work on creating/maintaining the JobSpy package.
 
 ## Features
 
