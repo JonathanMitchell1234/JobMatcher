@@ -39,7 +39,7 @@ JobMatcher is a web application that helps users find job postings that best mat
 
 1. Start the Flask application:
     ```sh
-    python [app.py](http://_vscodecontentref_/#%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2FUsers%2FJonathan%2FDesktop%2FJobsBuddy%2Fapp.py%22%2C%22path%22%3A%22%2FUsers%2FJonathan%2FDesktop%2FJobsBuddy%2Fapp.py%22%2C%22scheme%22%3A%22file%22%7D%7D)
+    python3 app.py
     ```
 
 2. Open your web browser and navigate to `http://127.0.0.1:5001`.
