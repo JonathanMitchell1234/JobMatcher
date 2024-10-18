@@ -1,4 +1,4 @@
-# NexOp AI
+# NexOp AI - AI Powered Job Matcher and Aggregator
 
 NexOp AI is a web application that helps users find job postings that best match their resume. The application scrapes job listings from various job sites and uses a generative AI model to analyze and match the jobs to the user's resume. This project is currently under early active development but is fully functional.
 
