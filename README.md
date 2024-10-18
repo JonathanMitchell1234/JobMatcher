@@ -4,6 +4,9 @@ JobMatcher is a web application that helps users find job postings that best mat
 
 Job Scraping is enabled by [Bunsly/JobSpy](https://github.com/Bunsly/JobSpy/tree/main). Shoutout to their work on creating/maintaining the JobSpy package.
 
+<img width="1429" alt="Screenshot 2024-10-17 at 7 50 27 PM" src="https://github.com/user-attachments/assets/a2ec5ae3-9af6-4c79-b502-b1ac3ba85546">
+
+
 ## Features
 
 - Scrape job listings from multiple job sites including Indeed, LinkedIn, ZipRecruiter, and Glassdoor.
