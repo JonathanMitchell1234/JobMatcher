@@ -18,7 +18,7 @@ Job Scraping is enabled by [Bunsly/JobSpy](https://github.com/Bunsly/JobSpy/tree
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/jobmatcher.git
+    git clone https://github.com/yourusername/nexop-ai.git
     cd jobmatcher
     ```
 
